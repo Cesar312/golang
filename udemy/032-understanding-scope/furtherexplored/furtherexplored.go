@@ -1,7 +1,7 @@
 package furtherexplored
 
 // This is a 'Package' block scope
-// This is not exported given the identifier 'plantSpeed'
+// This is exported given the identifier 'PlantSpeed'
 // is NOT capitalized
 
-var plantSpeed = 67000
+var PlantSpeed = 67000

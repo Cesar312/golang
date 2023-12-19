@@ -5,7 +5,7 @@ package main
 
 import (
 	"fmt"
-	"mymodule/032-understanding-scope/furtherexplored"
+	"golang/udemy/032-understanding-scope/furtherexplored"
 )
 
 // x is in the 'Package Block' scope

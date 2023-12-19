@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// Step 16
+// FYI no Step 17
 // Numeric constraints
 
 const (
